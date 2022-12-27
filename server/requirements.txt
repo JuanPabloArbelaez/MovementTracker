@@ -1,3 +1,5 @@
 ftfy
 fastapi[all]
 sqlalchemy
+uvicorn[standard]
+gunicorn

@@ -3,3 +3,5 @@ fastapi[all]
 sqlalchemy
 uvicorn[standard]
 gunicorn
+cloud-sql-python-connector[pg8000]
+pg8000

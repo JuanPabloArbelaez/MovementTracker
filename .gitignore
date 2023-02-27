@@ -1,9 +1,13 @@
 /device
 /mvmnt
 
-#SQLite
+#SQL
 *.db
+db_auth.txt
 
+
+# gcloud
+movementtracker-credential.json
 
 # Editors
 .vscode/
